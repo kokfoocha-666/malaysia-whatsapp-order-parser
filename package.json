@@ -1,0 +1,24 @@
+{
+  "name": "malaysia-whatsapp-order-parser",
+  "version": "0.1.0",
+  "description": "A lightweight parser for Malaysian e-commerce sellers to convert WhatsApp / ManyChat order messages into clean Excel rows.",
+  "main": "src/parser.js",
+  "scripts": {
+    "test": "vitest --run --globals"
+  },
+  "keywords": [
+    "malaysia",
+    "whatsapp",
+    "manychat",
+    "ecommerce",
+    "order-parser",
+    "excel",
+    "google-sheets"
+  ],
+  "author": "Kok Foo Cha",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "vitest": "^4.1.8"
+  }
+}
