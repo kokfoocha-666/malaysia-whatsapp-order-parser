@@ -36,6 +36,12 @@ Mohd Fahmi Harith    '0173212230    43800    D2 13-16 Savanna Executive Suites, 
 
 npm test
 
+## Documentation
+
+- [Google Sheets Workflow](docs/google-sheets.md)
+- [ManyChat Workflow Example](docs/manychat-workflow.md)
+- [Address Cleanup Notes](docs/address-cleanup.md)
+
 ## Roadmap
 
 - Better address cleanup
